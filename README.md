@@ -1,2 +1,2 @@
-# reactAutoComplete
+# ScheduleApp
 Created with CodeSandbox
